@@ -1,0 +1,4 @@
+C:\Users\CurinovNick\OneDrive - LG-Academy\Kurse\Softwareentwicklung\Projekte\Techstore\obj\Debug\net8.0\Techstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CurinovNick\OneDrive - LG-Academy\Kurse\Softwareentwicklung\Projekte\Techstore\obj\Debug\net8.0\Techstore.AssemblyInfoInputs.cache
+C:\Users\CurinovNick\OneDrive - LG-Academy\Kurse\Softwareentwicklung\Projekte\Techstore\obj\Debug\net8.0\Techstore.AssemblyInfo.cs
+C:\Users\CurinovNick\OneDrive - LG-Academy\Kurse\Softwareentwicklung\Projekte\Techstore\obj\Debug\net8.0\Techstore.csproj.CoreCompileInputs.cache
